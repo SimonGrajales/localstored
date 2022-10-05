@@ -5,3 +5,8 @@ body{
     display: flex;
     
 }
+
+.form-control{
+    background-color: rgb(57, 186, 85);
+    border: 2px, solid black;
+}
